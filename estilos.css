@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6{
 } 
 
  .header{
-	background:url("../media/ima.jpg");
+	background:url("ima.jpg");
 	background-position: center;
 	
 }
@@ -122,13 +122,13 @@ video{
 	
 }
 .producto article:nth-child(1) {
-	background-image: url("../media/pili.jpeg");
+	background-image: url("pili.jpeg");
 }
 .producto article:nth-child(2) {
-	background-image: url("../media/pepu.jpeg");
+	background-image: url("pepu.jpeg");
 }
 .producto article:nth-child(3) {
-	background-image: url("../media/pepi.jpeg");
+	background-image: url("pepi.jpeg");
 }
 .producto.informacion-producto{
 	margin: 0 30px;
